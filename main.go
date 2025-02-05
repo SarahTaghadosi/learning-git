@@ -1,2 +1,2 @@
 package main
-func maain(){}
+func main(){}
